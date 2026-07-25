@@ -11,7 +11,7 @@ Meu primeiro projeto utilizando uma ESP32 DevKit V1.
 
 ## Funcionamento
 
-O programa faz um LED conectado ao GPIO 13 piscar em intervalos de 1 segundo.
+O programa faz um LED conectado ao GPIO 2 piscar em intervalos de 1 segundo.
 
 ## Circuito
 
